@@ -1,7 +1,6 @@
 # Neurobehavioral-Factors-in-Eating-Disorders<img width="1022" height="594" alt="Screenshot 2025-09-16 171205" src="https://github.com/user-attachments/assets/684e8a38-ca51-45e0-b90a-89779f177147" />
 <img width="1015" height="594" alt="Screenshot 2025-09-16 171141" src="https://github.com/user-attachments/assets/3f22d74c-b042-4287-ba25-0f91036615b2" />
 
-Quantifying the gap in eating disorder assessment: An ML analysis revealing 45% of self-perception is driven by factors beyond standard behavioral checklists. Features RandomForest, LogisticRegression, XGBoost and Support Vector Machine models.
 
 # Predicting Self-Perception of Eating Disorders using Machine Learning
 # Overview
